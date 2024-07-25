@@ -1,2 +1,2 @@
-# cartrij
-yeah
+# kartridj
+github repo for the kartridj project loader
